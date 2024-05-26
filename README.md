@@ -1,1 +1,6 @@
 # Healthy-Sweet
+Enhancing nutritional awareness by offering delicious, low-calorie meals that challenge the perception of bland healthy foods. Enjoy tasty, nutritious options and eat healthily without compromising on flavor. Our innovative approach involves creating fruit-based treats by adding high-nutritional-value ingredients that might not be accepted on their own. By incorporating elements like honey, milk, dark chocolate with few calories, and nuts, we create visually appealing and flavorful combinations. Decorative touches like roses elevate the presentation.
+
+Our mission is to spread healthy eating habits within the community, educate people about nutritious foods, and shift their perception of healthy food from tasteless to delicious. We provide these options at reasonable prices, ensuring a unique and enjoyable experience. Our products are particularly beneficial for individuals with chronic conditions such as diabetes, who need alternatives to sweets containing processed sugar. They also appeal to children by offering fruit as a healthier alternative to harmful sweets, and to young adults aiming to follow a diet and improve their nutrition.
+
+[مشاهدة العمل على فيجما](https://www.figma.com/design/DtlYMODajTaIZqCiuWYSPj/Wireframing-(Copy)?node-id=77-432&t=pmQzkVvMHinwTO5f-0)
